@@ -5,12 +5,14 @@ def printSol(solMaze):
         for j in range(8):
             print(str(solMaze[i][j]),end=" ")
         print(end="\n")
+        
 # A utility function to check if x, y is valid
 # index for N * N Maze
 def isSafe(maze,x,y):
     if((x>=0 and x<8) and (y>=0 and y<8) and (maze[x][y]==1)):
         return True
     return False
+
 # function for solving maze problem
 def solve(maze,x,y,solMaze):
     # check if one reaches the goal state
