@@ -14,7 +14,7 @@ def calHeuristic(curr,goal):
         for j in range(3):
             if(curr[i][j]!=goal[i][j]):
                 hv = hv + 1
-    return hv
+    return hv-1
 
 def swap(node,r1,c1,r2,c2):
     tmp = node[r1][c1]
@@ -157,12 +157,16 @@ def cmp(curr,goal):
 
 def findAnswer(parent,curr,goal):
     if(curr.node in visited):
-        print('No Goal stata reached!!!')
-        print(parent.node)
+        print("====================")
+        print('No Goal Stata Reached!!!')
+        print('Local Maxima Is: ')
+        printing(parent.node)
         return
     if(cmp(curr.node,goal)):
-        print('Goal state reached!!!')
-        print(curr.node)
+        print("====================")
+        print('Goal State Reached!!!')
+        print('Goal State: ')
+        printing(curr.node)
         return
     #print('test',curr.node)
     visited.append(curr.node)
@@ -180,11 +184,19 @@ def findAnswer(parent,curr,goal):
         if(curr.child[i].hv==mini):
             ctr = ctr + 1                          
     if(ctr > 1):
-        print('No goal state reached!!!')
+        print("====================")
+        print('No Goal State Reached!!!')
+        print('Local Maxima Is: ')
         print(curr.node)
         return
     findAnswer(curr,curr.child[ind],goal)
     return 
+
+def printing(curr):
+    for i in range(3):
+        for j in range(3):
+            print(curr[i][j],end=" ")
+        print()
 
 def solve(initial,goal):
     heurist = calHeuristic(initial,goal)
@@ -195,18 +207,7 @@ def solve(initial,goal):
     #print(ans.node)
 
 def main():
-    '''
-    initial = [[1,2,4],
-            [5,-1,7],
-            [3,6,8]]
-    goal = [[1,4,7],
-            [2,5,8],
-            [3,6,-1]]
-    '''
-    #initial = [[1,2,3],[-1,6,4],[7,8,5]]
-    #goal =  [[1,2,3],[4,5,6],[7,8,-1]]
-    #initial = [[1,2,3],[4,5,6],[7,8,-1]]
-    #goal = [[1,2,3],[4,5,6],[7,-1,8]]
+# Working
     initial = [
         [1, -1, 3],
         [4, 2, 5],
@@ -217,6 +218,28 @@ def main():
         [4, 5, 6],
         [7, 8, -1]
     ]
+    print("====================")
+    print('Initial State: ')
+    printing(initial)
+    print("====================")
     solve(initial,goal)
-
+    print("====================")
+# Not Working
+"""
+    initial = [[1,2,3],
+                [-1,6,4],
+                [7,8,5]]
+    goal =  [[1,2,3],
+            [4,5,6],
+            [7,8,-1]]
+"""
+# Special Case
+"""
+    initial = [[1,2,4],
+            [5,-1,7],
+            [3,6,8]]
+    goal = [[1,4,7],
+            [2,5,8],
+            [3,6,-1]]
+"""
 main()
