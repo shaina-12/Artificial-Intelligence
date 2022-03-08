@@ -9,5 +9,7 @@
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/76079dc472e3cd123e526504fd7ec6e4255087c2/AI/Tic%20Tac%20Toe%20Game.py">7. Tic Tac Toe Game</a></p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/76079dc472e3cd123e526504fd7ec6e4255087c2/AI/Water%20Jug%20Using%20BFS.py">8. Water Jug Using BFS</a></p>
 ## Game Theory
+
 ## Machine Learning
+
 ## Computer Vision
