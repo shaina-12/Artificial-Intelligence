@@ -21,15 +21,15 @@
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Machine%20Learning/Naive_Bayes_Classifier.ipynb"></a>4. Naive Bayes Classifer</p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Machine%20Learning/Schocastic_Gradient_Descent_+_Backpropagation.ipynb"></a>5. Schocastic Gradient Descent and Back Propagation Algorithm</p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Machine%20Learning/Support_Vector_Machine.ipynb"></a>6. Support Vector Machines</p>
-<p><a href=""></a>7. K Nearest Neignbours</p>
+<p><a href=></a>7. K Nearest Neignbours</p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Machine%20Learning/Decision_Trees.ipynb"></a>8. Decision Trees</p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Machine%20Learning/Random_Forests.ipynb"></a>9. Random Forests</p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Machine%20Learning/KMeans_Clustering.ipynb"></a>10. K Means Clustering</p>
-<p><a href=""></a>11. Agglomerative Hierarchical Clustering</p>
-<p><a href=""></a>12. DBSCAN</p>
-<p><a href=""></a>13. Fuzzy C Means Clustering</p>
+<p><a href=></a>11. Agglomerative Hierarchical Clustering</p>
+<p><a href=></a>12. DBSCAN</p>
+<p><a href=></a>13. Fuzzy C Means Clustering</p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Machine%20Learning/PCA_Analysis.ipynb"></a>14. PCA Analysis</p>
-<p><a href=""></a>15. SVD Algorithm</p>
+<p><a href=></a>15. SVD Algorithm</p>
 
 ## Computer Vision
 
