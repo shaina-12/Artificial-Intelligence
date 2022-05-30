@@ -31,6 +31,10 @@
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Machine%20Learning/PCA_Analysis.ipynb"></a>14. PCA Analysis</p>
 <p><a href=></a>15. SVD Algorithm</p>
 
+## Deep Learning
+
 ## Computer Vision
+
+## Natural Language Processing
 
 ## References:
