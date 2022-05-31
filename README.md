@@ -11,7 +11,7 @@
 
 ## Game Theory
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Game%20Theory/Min%20Max%20Algo.py"></a>1. MiniMax Algorithm</p>
-<p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Game%20Theory/Alpha%20Beta%20Pruning.py"></a>2. Alpha Beta Pruning</p>
+<p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Game%20Theory/Alpha%20Beta%20Pruning.py"></a>2. Alpha Beta Pruning"</p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Game%20Theory/Tic%20Tac%20Toe%20Using%20Min%20Max%20Algorithm.py"></a>3. Tic Tac Toe Uisng MiniMax Algorithm</p>
 
 ## Machine Learning
@@ -25,11 +25,11 @@
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Machine%20Learning/Decision_Trees.ipynb"></a>8. Decision Trees</p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Machine%20Learning/Random_Forests.ipynb"></a>9. Random Forests</p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Machine%20Learning/KMeans_Clustering.ipynb"></a>10. K Means Clustering</p>
-<p><a href=></a>11. Agglomerative Hierarchical Clustering</p>
-<p><a href=></a>12. DBSCAN</p>
-<p><a href=></a>13. Fuzzy C Means Clustering</p>
+<p><a href=""></a>11. Agglomerative Hierarchical Clustering</p>
+<p><a href=""></a>12. DBSCAN</p>
+<p><a href=""></a>13. Fuzzy C Means Clustering</p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Machine%20Learning/PCA_Analysis.ipynb"></a>14. PCA Analysis</p>
-<p><a href=></a>15. SVD Algorithm</p>
+<p><a href=""></a>15. SVD Algorithm</p>
 
 ## Deep Learning
 
