@@ -12,7 +12,7 @@
 ## Game Theory
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Game%20Theory/Min%20Max%20Algo.py"></a>1. MiniMax Algorithm</p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Game%20Theory/Alpha%20Beta%20Pruning.py"></a>2. Alpha Beta Pruning</p>
-<p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Game%20Theory/Tic%20Tac%20Toe%20Using%20Min%20Max%20Algorithm.py"></a>3. Tic Tac Toe Uisng MiniMax Algorithm</p>
+<p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Game%20Theory/Tic%20Tac%20Toe%20Using%20Min%20Max%20Algorithm.py"></a>3. Tic Tac Toe Using MiniMax Algorithm</p>
 
 ## Machine Learning
 
