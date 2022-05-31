@@ -21,7 +21,7 @@
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Machine%20Learning/Naive_Bayes_Classifier.ipynb"></a>4. Naive Bayes Classifer</p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Machine%20Learning/Schocastic_Gradient_Descent_+_Backpropagation.ipynb"></a>5. Schocastic Gradient Descent and Back Propagation Algorithm</p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Machine%20Learning/Support_Vector_Machine.ipynb"></a>6. Support Vector Machines</p>
-<p><a href=https://github.com/shaina-12/Artificial-Intelligence/blob/b41664fec429e5da05ea80996a30d287028df0eb/Machine%20Learning/K_Nearest_Neignbours.ipynb></a>7. K Nearest Neignbours</p>
+<p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/bb0a07778e8616a6823623282ea21e29463bccd3/Machine%20Learning/K_Nearest_Neignbours.ipynb"></a>7. K Nearest Neignbours</p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Machine%20Learning/Decision_Trees.ipynb"></a>8. Decision Trees</p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Machine%20Learning/Random_Forests.ipynb"></a>9. Random Forests</p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Machine%20Learning/KMeans_Clustering.ipynb"></a>10. K Means Clustering</p>
