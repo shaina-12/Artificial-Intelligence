@@ -32,6 +32,12 @@
 <p><a href="">15. SVD Algorithm</a></p>
 
 ## Deep Learning
+<p><a href="">1. Linear Regression</a></p>
+<p><a href="">2. Logistic Regression</a></p>
+<p><a href="">3. Multi-Layer Perceptron</a></p>
+<p><a href="">4. Convolution Neural Networks</a></p>
+<p><a href="">5. Recurrent Neural Networks</a></p>
+<p><a href="">6. Generative Adversarial Network</a></p>
 
 ## Computer Vision
 
