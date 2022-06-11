@@ -10,9 +10,9 @@
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/76079dc472e3cd123e526504fd7ec6e4255087c2/AI/Water%20Jug%20Using%20BFS.py">8. Water Jug Using BFS</a></p>
 
 ## Game Theory
-<p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Game%20Theory/Min%20Max%20Algo.py"></a>1. MiniMax Algorithm</p>
-<p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Game%20Theory/Alpha%20Beta%20Pruning.py"></a>2. Alpha Beta Pruning</p>
-<p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Game%20Theory/Tic%20Tac%20Toe%20Using%20Min%20Max%20Algorithm.py"></a>3. Tic Tac Toe Using MiniMax Algorithm</p>
+<p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Game%20Theory/Min%20Max%20Algo.py">1. MiniMax Algorithm</a></p>
+<p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Game%20Theory/Alpha%20Beta%20Pruning.py">2. Alpha Beta Pruning></a></p>
+<p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Game%20Theory/Tic%20Tac%20Toe%20Using%20Min%20Max%20Algorithm.py">3. Tic Tac Toe Using MiniMax Algorithm</a></p>
 
 ## Machine Learning
 
