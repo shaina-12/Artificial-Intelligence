@@ -44,3 +44,23 @@
 ## Natural Language Processing
 
 ## References:
+
+[1] https://www.javatpoint.com/dip-image-transformations
+
+[2] https://www.udemy.com/share/101tkm3@-16Pjppam7RL0STVNspXTejAwcjCiAiPOoG7g0YnXUgA2Pqf451TwmbgBXRzoskU2A==/
+
+[3] https://www.youtube.com/watch?v=P4Z8_qe2Cu0
+
+[4] https://www.youtube.com/watch?v=01sAkU_NvOY
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+[10]
