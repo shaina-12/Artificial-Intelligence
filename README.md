@@ -93,4 +93,6 @@
 
 [24] https://pytorch.org/tutorials/
 
-[25] 
+[25] https://www.geeksforgeeks.org/piece-wise-linear-transformation/
+
+[26] https://stackoverflow.com/questions/45685870/valueerror-images-of-type-float-must-be-between-1-and-1#:~:text=The%20error%20here%20tells%20you%20that%20the%20pixels%27,Converting%20the%20values%20to%20integers%20may%20also%20work.
