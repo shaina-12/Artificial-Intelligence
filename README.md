@@ -53,14 +53,44 @@
 
 [4] https://www.youtube.com/watch?v=01sAkU_NvOY
 
-[5]
+[5] https://www.geeksforgeeks.org/python-intensity-transformation-operations-on-images/
 
-[6]
+[6] https://towardsdatascience.com/image-compression-dct-method-f2bb79419587
 
-[7]
+[7] https://github.com/ojaashampiholi/DCT_Analysis
 
-[8]
+[8] https://www.kaggle.com/code/siddheshmahajan/image-processing-image-compression-using-dct/notebook
 
-[9]
+[9] https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.fftpack.dct.html#scipy.fftpack.dct
 
-[10]
+[10] https://docs.opencv.org/2.4/modules/core/doc/operations_on_arrays.html
+
+[11] https://www.geeksforgeeks.org/discrete-cosine-transform-algorithm-program/
+
+[12] https://www.analyticsvidhya.com/blog/2021/05/computer-vision-using-opencv-with-practical-examples/
+
+[13] https://medium.com/@fanzongshaoxing/accelerate-opencv-dct-discrete-cosine-transform-in-multi-dimensional-array-2225acf89eb4
+
+[14] https://medium.com/@koushikc2000/basic-operations-on-images-using-opencv-python-cb0d60d11911
+
+[15] https://github.com/VenkateshBH99/Digital-Image-Processing
+
+[16] https://docs.opencv.org/4.x/d3/dc1/tutorial_basic_linear_transform.html
+
+[17] https://developpaper.com/image-gray-transformation-in-opencv-image-processing/
+
+[18] https://www.geeksforgeeks.org/python-grayscaling-of-images-using-opencv/
+
+[19] https://opencv24-python-tutorials.readthedocs.io/en/stable/py_tutorials/py_imgproc/py_transforms/py_fourier_transform/py_fourier_transform.html
+
+[20] https://medium.com/crossml/fourier-transformation-in-image-processing-84142263d734
+
+[21] https://homepages.inf.ed.ac.uk/rbf/HIPR2/fourier.htm#:~:text=The%20Fourier%20Transform%20is%20an,is%20the%20spatial%20domain%20equivalent.
+
+[22]
+
+[23]
+
+[24]
+
+[25]
