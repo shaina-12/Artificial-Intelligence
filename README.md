@@ -87,10 +87,10 @@
 
 [21] https://homepages.inf.ed.ac.uk/rbf/HIPR2/fourier.htm#:~:text=The%20Fourier%20Transform%20is%20an,is%20the%20spatial%20domain%20equivalent.
 
-[22]
+[22] https://www.geeksforgeeks.org/c-program-to-invert-making-negative-an-image-content-in-pgm-format/
 
-[23]
+[23] https://pytorch.org/
 
-[24]
+[24] https://pytorch.org/tutorials/
 
-[25]
+[25] 
