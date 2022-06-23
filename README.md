@@ -43,7 +43,7 @@
 
 ## Natural Language Processing
 
-## References:
+## References and Additional Reading:
 
 [1] https://www.javatpoint.com/dip-image-transformations
 
