@@ -98,3 +98,41 @@
 [26] https://stackoverflow.com/questions/45685870/valueerror-images-of-type-float-must-be-between-1-and-1#:~:text=The%20error%20here%20tells%20you%20that%20the%20pixels%27,Converting%20the%20values%20to%20integers%20may%20also%20work.
 
 [27] https://theailearner.com/2019/01/30/contrast-stretching/
+
+[28] https://github.com/krutikabapat/Video-Panorama
+
+[29] https://docs.opencv.org/4.x/d3/db7/tutorial_hdr_imaging.html
+
+[30] https://docs.opencv.org/4.x/d8/d19/tutorial_stitcher.html
+
+[31] https://www.geeksforgeeks.org/opencv-panorama-stitching/
+
+[32] https://towardsdatascience.com/image-panorama-stitching-with-opencv-2402bde6b46c
+
+[33] https://pyimagesearch.com/2016/01/11/opencv-panorama-stitching/
+
+[34] https://analyticsindiamag.com/image-processing-with-opencv-in-python/
+
+[35] https://www.superdatascience.com/blogs/opencv-face-recognition
+
+[36] https://new.pythonforengineers.com/blog/image-and-video-processing-in-python/
+
+[37] https://learnopencv.com/image-alignment-ecc-in-opencv-c-python/
+
+[38] https://learnopencv.com/image-alignment-feature-based-using-opencv-c-python/
+
+[39] https://pyimagesearch.com/2020/08/31/image-alignment-and-registration-with-opencv/
+
+[40] https://docs.opencv.org/3.4/d2/df0/tutorial_py_hdr.html
+
+[41] https://medium.datadriveninvestor.com/hdr-imaging-what-how-to-generate-2d0a25ad262e
+
+[42] https://towardsdatascience.com/hdr-imaging-what-is-an-hdr-image-anyway-bdf05985492c
+
+[43] https://en.wikipedia.org/wiki/High_dynamic_range
+
+[44] https://en.wikipedia.org/wiki/Multi-exposure_HDR_capture
+
+[45] https://learnopencv.com/high-dynamic-range-hdr-imaging-using-opencv-cpp-python/
+
+[46] https://towardsdatascience.com/a-simple-hdr-implementation-on-opencv-python-2325dbd9c650
