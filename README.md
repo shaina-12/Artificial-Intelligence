@@ -136,3 +136,19 @@
 [45] https://learnopencv.com/high-dynamic-range-hdr-imaging-using-opencv-cpp-python/
 
 [46] https://towardsdatascience.com/a-simple-hdr-implementation-on-opencv-python-2325dbd9c650
+
+[47] https://www.graphicsmill.com/docs/gm/minimum-maximum-median-filters.htm#:~:text=The%20minimum%20filter%20erodes%20shapes,pixel%20with%20a%20defined%20radius.
+
+[48] https://www.geeksforgeeks.org/image-filtering-using-convolution-in-opencv/
+
+[49] https://python.plainenglish.io/image-filtering-and-editing-in-python-with-code-e878d2a4415d
+
+[50] https://stackoverflow.com/questions/22937589/how-to-add-noise-gaussian-salt-and-pepper-etc-to-image-in-python-with-opencv
+
+[51] https://towardsdatascience.com/introduction-of-image-processing-with-python-image-filtering-193e9108ea1d
+
+[52] https://towardsdatascience.com/image-filters-in-python-26ee938e57d2
+
+[53] https://scikit-image.org/skimage-tutorials/lectures/1_image_filters.html
+
+[54] https://www.tutorialspoint.com/python_pillow/python_pillow_adding_filters_to_an_image.htm
