@@ -156,3 +156,7 @@
 [53] https://scikit-image.org/skimage-tutorials/lectures/1_image_filters.html
 
 [54] https://www.tutorialspoint.com/python_pillow/python_pillow_adding_filters_to_an_image.htm
+
+[55] https://www.geeksforgeeks.org/python-opencv-capture-video-from-camera/
+
+[56] https://docs.opencv.org/4.x/dd/d43/tutorial_py_video_display.html
