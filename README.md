@@ -11,6 +11,7 @@
 <p><a href="">9. 8 Puzzle Problem Using A* Algorithm</a></p>
 <p><a href="">10. Graph Colouring Problem</a></p>
 <p><a href="">11. Cryptaritnmatic Algorithm</a></p>
+<p><a href="">12. TSP Using A Star Algorithm</a></p>
 
 ## Game Theory
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Game%20Theory/Min%20Max%20Algo.py">1. MiniMax Algorithm</a></p>
