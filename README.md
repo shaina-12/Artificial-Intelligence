@@ -8,6 +8,9 @@
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/76079dc472e3cd123e526504fd7ec6e4255087c2/AI/Maze%20Problem.py">6. Maze Problem</a></p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/76079dc472e3cd123e526504fd7ec6e4255087c2/AI/Tic%20Tac%20Toe%20Game.py">7. Tic Tac Toe Game</a></p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/76079dc472e3cd123e526504fd7ec6e4255087c2/AI/Water%20Jug%20Using%20BFS.py">8. Water Jug Using BFS</a></p>
+<p><a href="">9. 8 Puzzle Problem Using A* Algorithm</a></p>
+<p><a href="">10. Graph Colouring Problem</a></p>
+<p><a href="">11. Cryptaritnmatic Algorithm</a></p>
 
 ## Game Theory
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Game%20Theory/Min%20Max%20Algo.py">1. MiniMax Algorithm</a></p>
