@@ -191,8 +191,6 @@ https://en.wikipedia.org/wiki/Corner_detection
 
 https://medium.com/data-breach/introduction-to-harris-corner-detector-32a88850b3f6
 
-For More Information Please Visit The Given Links:
-
 https://www.datacamp.com/tutorial/face-detection-python-opencv
 
 https://www.geeksforgeeks.org/opencv-python-program-face-detection/
