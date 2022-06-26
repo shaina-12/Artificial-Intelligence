@@ -160,3 +160,13 @@
 [55] https://www.geeksforgeeks.org/python-opencv-capture-video-from-camera/
 
 [56] https://docs.opencv.org/4.x/dd/d43/tutorial_py_video_display.html
+
+https://www.mygreatlearning.com/blog/introduction-to-edge-detection/
+
+https://gist.github.com/rahit/c078cabc0a48f2570028bff397a9e154
+
+https://www.analyticsvidhya.com/blog/2021/03/edge-detection-extracting-the-edges-from-an-image/
+
+https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Gradient_Sobel_Laplacian_Derivatives_Edge_Detection.php
+
+https://learnopencv.com/edge-detection-using-opencv/
