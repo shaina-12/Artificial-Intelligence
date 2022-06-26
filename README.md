@@ -170,3 +170,23 @@ https://www.analyticsvidhya.com/blog/2021/03/edge-detection-extracting-the-edges
 https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Gradient_Sobel_Laplacian_Derivatives_Edge_Detection.php
 
 https://learnopencv.com/edge-detection-using-opencv/
+
+https://pythonprogramming.net/corner-detection-python-opencv-tutorial/
+
+https://docs.opencv.org/4.x/dc/d0d/tutorial_py_features_harris.html
+
+https://www.geeksforgeeks.org/python-corner-detection-with-harris-corner-detection-method-using-opencv/
+
+https://www.geeksforgeeks.org/python-corner-detection-with-shi-tomasi-corner-detection-method-using-opencv/?ref=lbp
+
+https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_fast/py_fast.html
+
+https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_shi_tomasi/py_shi_tomasi.html
+
+https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_features_harris/py_features_harris.html
+
+https://www.southampton.ac.uk/~msn/book/new_demo/corners/#:~:text=Corner%20detection%20works%20on%20the,a%20large%20change%20in%20intensity.
+
+https://en.wikipedia.org/wiki/Corner_detection
+
+https://medium.com/data-breach/introduction-to-harris-corner-detector-32a88850b3f6
