@@ -190,3 +190,31 @@ https://www.southampton.ac.uk/~msn/book/new_demo/corners/#:~:text=Corner%20detec
 https://en.wikipedia.org/wiki/Corner_detection
 
 https://medium.com/data-breach/introduction-to-harris-corner-detector-32a88850b3f6
+
+For More Information Please Visit The Given Links:
+
+https://www.datacamp.com/tutorial/face-detection-python-opencv
+
+https://www.geeksforgeeks.org/opencv-python-program-face-detection/
+
+https://www.geeksforgeeks.org/face-detection-using-python-and-opencv-with-webcam/
+
+https://towardsdatascience.com/face-detection-in-2-minutes-using-opencv-python-90f89d7c0f81
+
+https://www.javatpoint.com/face-recognition-and-face-detection-using-opencv#:~:text=Face%20recognition%20and%20Face%20detection%20using%20the%20OpenCV,difficult%20task%20for%20a%20computer.
+
+https://developers.google.com/ml-kit/vision/face-detection
+
+https://firebase.google.com/docs/ml-kit/detect-faces
+
+https://www.techtarget.com/searchenterpriseai/definition/face-detection
+
+https://towardsdatascience.com/face-detection-for-beginners-e58e8f21aad9
+
+https://en.wikipedia.org/wiki/Face_detection
+
+https://docs.aws.amazon.com/rekognition/latest/dg/faces.html
+
+https://en.wikipedia.org/wiki/Face_detection
+
+https://cloud.google.com/vision/docs/detecting-faces
