@@ -47,9 +47,7 @@
 
 ## Natural Language Processing
 
-## Reinforcement Learning
-
-## Bioinformatics
+## Miscellaneous
 
 ## References and Additional Reading:
 
