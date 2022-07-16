@@ -121,6 +121,7 @@ https://github.com/nitinkaushik01/Deep_and_Machine_Learning_Projects
 https://github.com/TheCodex-Me/Projects
 https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post
 https://github.com/ashishpatel26/Real-time-ML-Project
+https://www.linkedin.com/posts/mamounalazab_a-variational-autoencoder-based-relational-activity-6953528396677070848-u5uk?utm_source=linkedin_share&utm_medium=member_desktop_web
 
 Real Time Projects:
 Life-sciences
