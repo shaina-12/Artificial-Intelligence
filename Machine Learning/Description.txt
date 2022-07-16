@@ -34,6 +34,27 @@ https://github.com/gpnoel/DeepRemix
 https://github.com/ybayle/awesome-deep-learning-music
 https://github.com/topics/remixer
 
+More Projects:
+Calories Burned Prediction
+Gender Classification Model
+Employee Attrition Prediction
+Google Landmark Detection Model
+Title Generator
+Chatbot with Deep Learning
+Deepfake Detection
+Predict Fuel Efficiency
+Machine Translation Model
+Next Word Prediction Model
+Covid-19 Telegram Bot with Python
+Lung Segmentation
+Customer Segmentation using RFM and KMeans Models
+Speech Recognition Youtube and VLC Player Project
+Speech Recognition
+Trump Twitter Analysis Final
+Flask Weather Dashboard Final
+Bitcoin Cryptocurrency Price Visualizer
+Amazon Prime Video Selenium Scrapper
+
 Practice Exercises:
 https://github.com/Pragati1808/ds_lab_sem_5.git
 https://github.com/ikathuria/covid-tracker.git
@@ -55,4 +76,47 @@ https://github.com/keshavsingh4522/Python.git
 https://github.com/Manasi2001/Book-Recommendation-System.git
 https://github.com/Manasi2001/Image-to-Pencil-Sketch.git
 
+More Practice Exercises:
+Online Shopping Intention Analysis
+Amazon Bestselling Books Analysis
+Covid-19 Cases prediction for next 30 days
+YouTube Trending Videos Analysis
+Online Shopping Intention Analysis
+Amazon Bestselling Books Analysis
+Covid-19 Cases prediction for next 30 days
+YouTube Trending Videos Analysis
+Face Mask Detection
+Breast Cancer Detection Model
+Stock Price Prediction
+Air Quality Index Analysis
+Pneumonia Detection
+Restaurant Recommendation System
+Earthquake Prediction Model
+Heart Disease Prediction Model
+Election Results Prediction
+Named Entity Recognition
+Fashion Recommendation System
+Classify Nationalities
+Predict Car Prices
+Text Classification
+Image Classification
+Image Recognition
+Fashion Recommendation System
+Face Landmarks Detection
+Covid-19 Detection
+Dog and Cat Classification
+COVID-19 Analysis with Python
+Contact Tracing with Machine Learning
+Covid-19 Death Rate Analysis with Machine Learning
+Skin Cancer Classification
+Handwriting Digit Recognition
 
+Links:
+https://amankharwal.medium.com/20-machine-learning-projects-for-portfolio-81e3dbd167b1
+https://medium.com/coders-camp/20-deep-learning-projects-with-python-3c56f7e6a721
+https://amankharwal.medium.com/5-covid-19-projects-with-python-and-machine-learning-63d51cde96e2
+https://becominghuman.ai/computer-vision-projects-with-python-ecfac58ded18
+https://medium.datadriveninvestor.com/5-machine-learning-projects-for-healthcare-bbd0eac57b4a
+https://github.com/nitinkaushik01/Deep_and_Machine_Learning_Projects
+https://github.com/TheCodex-Me/Projects
+https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post
