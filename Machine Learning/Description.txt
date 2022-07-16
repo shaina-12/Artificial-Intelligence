@@ -120,3 +120,78 @@ https://medium.datadriveninvestor.com/5-machine-learning-projects-for-healthcare
 https://github.com/nitinkaushik01/Deep_and_Machine_Learning_Projects
 https://github.com/TheCodex-Me/Projects
 https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post
+https://github.com/ashishpatel26/Real-time-ML-Project
+
+Real Time Projects:
+Life-sciences
+
+Plants Disease - App that detects diseases in plants using a deep learning model.
+Leaf Identification - Identification of plants through plant leaves on the basis of their shape, color and texture.
+Crop Analysis - An imaging library to detect and track future position of ears on maize plants
+Seedlings - Plant Seedlings Classification from kaggle competition
+[Plant Stress](http://An ontology containing plant stresses; biotic and abiotic.) - An ontology containing plant stresses; biotic and abiotic.
+Animal Hierarchy - Package for calculating animal dominance hierarchies.
+Animal Identification - Deep learning for animal identification.
+Species - Big Data analysis of different species of animals
+Animal Vocalisations - A generative network for animal vocalizations
+Evolutionary - Evolution Strategies Tool
+Glaciers - Educational material about glaciers.
+
+Genomics
+
+Jupyter Genomics - Collection of computation biology and bioinformatics notebooks.
+Variant calling - Correctly identify variations from the reference genome in an individual's DNA.
+Gene Expression Graphs - Using convolutions on an image.
+Autoencoding Expression - Extracting relevant patterns from large sets of gene expression data
+Gene Expression Inference - Predict the expression of specified target genes from a panel of about 1,000 pre-selected “landmark genes”.
+Plant Genomics - Presentation and example material for Plant and Pathogen Genomics
+
+Chemoinformatics and drug discovery
+
+Novel Molecules - A convolutional net that can learn features.
+Automating Chemical Design - Generate new molecules for efficient exploration.
+GAN drug Discovery - A method that combines generative models with reinforcement learning.
+RL - generating compounds predicted to be active against a biological target.
+One-shot learning - Python library that aims to make the use of machine-learning in drug discovery straightforward and convenient.
+
+Sequencing
+
+DNA, RNA and Protein Sequencing - Anew representation for biological sequences using DL.
+CNN Sequencing - A toolbox for learning motifs from DNA/RNA sequence data using convolutional neural networks
+NLP Sequencing - Language transfer learning model for genomics
+
+General
+
+Programming - Python Programming for Biologists
+Introduction DL - A Primer on Deep Learning in Genomics
+Pose - Estimating animal poses using DL.
+Privacy - Privacy preserving NNs for clinical data sharing.
+Population Genetics - DL for population genetic inference.
+Bioinformatics Course - Course materials for Computational Biologyand Bioinformatics
+Applied Stats - Applied Statistics for High-Throughput Biology
+Scripts - Python scripts for biologists.
+Molecular NN - A mini-framework to build and train neural networks for molecular biology.
+Systems Biology Simulations - Systems biology practical on writing simulators with F# and Z3
+Cell Movement - LSTM to predict biological cell movement.
+Deepchem - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
+
+Physics
+General
+
+Gamma-hadron Reconstruction - Tools used in Gamma-ray ground based astronomy.
+Curriculum - Newtonian notebooks.
+Interaction Networks - Interaction Networks for Learning about Objects, Relations and Physics.
+Particle Physics - Training, generation, and analysis code for learning Particle Physics
+Computational Physics - A computational physics repository.
+Medical Physics - Useful python for medical physics.
+Medical Physics 2 - A common, core Python package for Medical Physics
+Flow Physics - Flow Physics and Aeroacoustics Toolbox with Python
+
+Healthcare
+General
+
+zEpid - Epidemiology analysis package.
+Python For Epidemiologists - Tutorial to introduce epidemiology analysis in Python.
+Prescription Compliance - An analysis of prescription and medical compliance
+Respiratory Disease - Tracking respiratory diseases in Olympic athletes
+Bubonic Plague - Bubonic plague and SIR model.
