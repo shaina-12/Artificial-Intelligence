@@ -44,8 +44,15 @@
 <p><a href="">6. Generative Adversarial Network</a></p>
 
 ## Computer Vision
+<p><a href="">1. Image to Sketch</a></p>
+<p><a href="">2. Face Recognition</a></p>
+<p><a href="">3. Image Compression</a></p>
+<p><a href="">4. Image Classification</a></p>
+<p><a href="">5. Optical Recognition of Handwritten Digits </a></p>
 
 ## Natural Language Processing
+<p><a href="">1. NLP Pipeline</a></p>
+<p><a href="">2. Fake News Detection</a></p>
 
 ## Miscellaneous
 
