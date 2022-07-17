@@ -196,3 +196,27 @@ Python For Epidemiologists - Tutorial to introduce epidemiology analysis in Pyth
 Prescription Compliance - An analysis of prescription and medical compliance
 Respiratory Disease - Tracking respiratory diseases in Olympic athletes
 Bubonic Plague - Bubonic plague and SIR model.
+
+Amity University 
+ -> email bot
+ -> voice bot
+ -> chat bot
+it sld be buildin amizone
+
+student help desk 
+reminders
+admission process - admission forms , certificates 
+                  and fees.
+
+Amity Assistant
+
+
+
+Amity Network site
+ - alumini will upload the documents
+ - alumini social networks
+
+
+Virtual stylists
+
+ 
