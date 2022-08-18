@@ -1,4 +1,5 @@
 # Artificial-Intelligence
+## NOTE: THIS REPOSITORY WILL TAKE SOME TIME TO COMPLETE. IF YOU FIND ANY MISTAKE IN IT PLS RAISE THE ISSUE IN IT. IF YOU FIND SIMILAR ARTICLES RELSTED TO IT, PLEASE ADD IT TO THE REFERENCE SECTION. MORE TOPICS WILL BE ADDED SOON.
 ## Puzzles and Algorithms
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/76079dc472e3cd123e526504fd7ec6e4255087c2/AI/2%20Water%20Jug%20Problem.py">1. 2 Water Jug Problem</a></p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/76079dc472e3cd123e526504fd7ec6e4255087c2/AI/3%20Water%20Jug%20Problem.py">2. 3 Water Jug Problem</a></p>
