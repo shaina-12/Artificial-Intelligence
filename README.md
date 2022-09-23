@@ -55,9 +55,7 @@
 <p><a href="">1. NLP Pipeline</a></p>
 <p><a href="">2. Fake News Detection</a></p>
 
-## Fuzzy Logic
-
-## AI Swarms
+## Soft Computing and Its Applications
 
 ## Miscellaneous
 
