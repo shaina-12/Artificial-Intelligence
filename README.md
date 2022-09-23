@@ -56,8 +56,18 @@
 <p><a href="">2. Fake News Detection</a></p>
 
 ## Soft Computing and Its Applications
+<p><a href="">1. Fuzzy Logic</a></p>
+<p><a href="">2. Ant Colony</a></p>
+<p><a href="">3. Genetic Algorithm</a></p>
+<p><a href="">4. Image Classification</a></p>
+<p><a href="">5. Optical Recognition of Handwritten Digits </a></p>
 
 ## Miscellaneous
+<p><a href="">1. Hidden Markov Model</a></p>
+<p><a href="">2. Maximum Entropy Markov Model</a></p>
+<p><a href="">3. Conditional Random Fields</a></p>
+<p><a href="">4. Image Classification</a></p>
+<p><a href="">5. Optical Recognition of Handwritten Digits </a></p>
 
 ## References and Additional Reading:
 
