@@ -69,6 +69,10 @@
 <p><a href="">1. AND Gate Using Neural Networks</a></p>
 <p><a href="">2. OR Gate Using Neural Networks</a></p>
 <p><a href="">3. XOR Gate Using Neural Networks</a></p>
+<p><a href="">4. XNOR Gate Using Neural Networks</a></p>
+<p><a href="">5. Heart Disease Prediction Using Neural Networks</a></p>
+<p><a href="">6. Market Based Analysis</a></p>
+<p><a href="">7. Application of Agglomerative Clustering on Gene Data</a></p>
 
 ## References and Additional Reading:
 
