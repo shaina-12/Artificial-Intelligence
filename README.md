@@ -78,6 +78,7 @@
 -> Kidney Disease
 -> Covid 19 time series analysis
 -> Chatbots
+->Bioinformatics
 
 ## References and Additional Reading:
 
