@@ -74,6 +74,11 @@
 <p><a href="">6. Market Based Analysis</a></p>
 <p><a href="">7. Application of Agglomerative Clustering on Gene Data</a></p>
 
+-> Physionet
+-> Kidney Disease
+-> Covid 19 time series analysis
+-> Chatbots
+
 ## References and Additional Reading:
 
 [1] https://www.javatpoint.com/dip-image-transformations
