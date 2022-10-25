@@ -249,3 +249,19 @@ https://docs.aws.amazon.com/rekognition/latest/dg/faces.html
 https://en.wikipedia.org/wiki/Face_detection
 
 https://cloud.google.com/vision/docs/detecting-faces
+
+[1] https://github.com/rahul1-bot/Covid-chest-Image-classification-from-Deep-Residual-Networks/blob/main/covid_code.py
+
+[2] https://towardsdatascience.com/pytorch-vision-multiclass-image-classification-531025193aa
+
+[3] https://towardsdatascience.com/learning-curve-to-identify-overfitting-underfitting-problems-133177f38df5
+
+[4] https://towardsdatascience.com/how-to-load-a-custom-image-dataset-on-pytorch-bf10b2c529e0
+
+[5] https://web.microsoftstream.com/video/1f76f7da-f3c1-4c4f-ade8-091ccdd28c27?list=user&userId=e6fa3936-b55e-477e-bd69-f4c3dd33e956
+
+[6] https://learn.microsoft.com/en-us/training/modules/intro-computer-vision-pytorch/
+
+[7] https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database/code
+
+
