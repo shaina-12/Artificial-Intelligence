@@ -13,8 +13,6 @@
 <p><a href="">10. Graph Colouring Problem</a></p>
 <p><a href="">11. Cryptaritnmatic Algorithm</a></p>
 <p><a href="">12. TSP Using A Star Algorithm</a></p>
-
-## Game Theory
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Game%20Theory/Min%20Max%20Algo.py">1. MiniMax Algorithm</a></p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Game%20Theory/Alpha%20Beta%20Pruning.py">2. Alpha Beta Pruning</a></p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Game%20Theory/Tic%20Tac%20Toe%20Using%20Min%20Max%20Algorithm.py">3. Tic Tac Toe Using MiniMax Algorithm</a></p>
@@ -35,14 +33,19 @@
 <p><a href="">13. Fuzzy C Means Clustering</a></p>
 <p><a href="https://github.com/shaina-12/Artificial-Intelligence/blob/a7ea4c5906a06baa24bf754db9a2188d18a7986e/Machine%20Learning/PCA_Analysis.ipynb">14. PCA Analysis</a></p>
 <p><a href="">15. SVD Algorithm</a></p>
+<p><a href="">16. Hidden Markov Model</a></p>
+<p><a href="">17. Audio Classification of Speech Command V2 Dataset using Gaussian Mixture Model</a></p>
 
 ## Deep Learning
-<p><a href="">1. Linear Regression</a></p>
-<p><a href="">2. Logistic Regression</a></p>
-<p><a href="">3. Multi-Layer Perceptron</a></p>
-<p><a href="">4. Convolution Neural Networks</a></p>
-<p><a href="">5. Recurrent Neural Networks</a></p>
-<p><a href="">6. Generative Adversarial Network</a></p>
+<p><a href="">1. Artificial Neural Network and Backpropagation Algorithm from Scratch</a></p>
+<p><a href="">2. VGG-16 Architecture From Scratch</a></p>
+<p><a href="">2. ResNet-18 Architecture From Scratch</a></p>
+<p><a href="">3. Few Custom CNN Architectures</a></p>
+<p><a href="">4. MNIST Image Generation using Denoising Autoencoders, Denoising Variational Autoencoders and Denoising Conditional Variational Autoencoders</a></p>
+<p><a href="">5. Image Generation using GANs</a></p>
+<p><a href="">7. NER and Aspect Term Identification using RNN, LSTM and GRU</a></p>
+<p><a href="">6. Transformer Architecture for Machine Translation from Scratch</a></p>
+
 
 ## Computer Vision
 <p><a href="">1. Image to Sketch</a></p>
@@ -50,20 +53,15 @@
 <p><a href="">3. Image Compression</a></p>
 <p><a href="">4. Image Classification</a></p>
 <p><a href="">5. Optical Recognition of Handwritten Digits </a></p>
+<p><a href="">6. Image Segmentation of Tumor Present in MRI Images of Brain using U-Net</a></p>
+<p><a href="">7. Vision Transformer from Scratch</a></p>
 
-## Natural Language Processing
+## Natural Language Processing and Large Language Models
 <p><a href="">1. NLP Pipeline</a></p>
 <p><a href="">2. Fake News Detection</a></p>
-
-## Soft Computing and Its Applications
-<p><a href="">1. Fuzzy Logic</a></p>
-<p><a href="">2. Ant Colony</a></p>
-<p><a href="">3. Genetic Algorithm</a></p>
-
-## Pattern Recognition
-<p><a href="">1. Hidden Markov Model</a></p>
-<p><a href="">2. Maximum Entropy Markov Model</a></p>
-<p><a href="">3. Conditional Random Fields</a></p>
+<p><a href="">3. NER and Aspect Term Identification using Bi-LSTM and CRF</a></p>
+<p><a href="">4. Machine Translation using T5 Small Model</a></p>
+<p><a href="">5. Text Summarization using GPT-2 Model</a></p>
 
 ## Miscellaneous
 <p><a href="">1. AND Gate Using Neural Networks</a></p>
@@ -74,13 +72,8 @@
 <p><a href="">6. Market Based Analysis</a></p>
 <p><a href="">7. Application of Agglomerative Clustering on Gene Data</a></p>
 
--> Physionet
--> Kidney Disease
--> Covid 19 time series analysis
--> Chatbots
-->Bioinformatics
 
-## References and Additional Reading:
+## Bibliography:
 
 [1] https://www.javatpoint.com/dip-image-transformations
 
